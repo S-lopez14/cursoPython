@@ -23,8 +23,11 @@ while a==7:
     if a != 7:
         break """
 
-
+""" 
 a = 3
 b = 4
 if a==3 and b==4:
-    print("es correcto")
+    print("es correcto") """
+
+for i in range(0,5):
+    print(i)
